@@ -1,6 +1,6 @@
 
 .main{
-	background-image: url("/imgs/bg/Head.jpg");
+	background-image: url("../imgs/bg/Head.jpg");
 	height:98vh;
     margin-bottom: -20px;
     width: 100%;
@@ -13,7 +13,7 @@
 
 .parallax {
     /* The image used */
-    background-image: url("/imgs/bg/Features.jpg");
+    background-image: url("../imgs/bg/Features.jpg");
   
     /* Set a specific height */
     height: 1350px;
@@ -28,7 +28,7 @@
 
   .parallax2 {
     /* The image used */
-    background-image: url("/imgs/bg/Location.jpg");
+    background-image: url("../imgs/bg/Location.jpg");
   
     /* Set a specific height */
     height: auto;
